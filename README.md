@@ -7,7 +7,7 @@
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-List-ff69b4.svg?style=flat-square" alt="Awesome List"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Privacy-Request-Automation/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Privacy-Request-Automation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Privacy-Request-Automation?style=social&color=white" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Privacy-Request-Automation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Privacy-Request-Automation?style=social&color=white" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Privacy-Request-Automation/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -66,7 +66,7 @@ Privacy Request Automation enables organizations to receive, identity-verify, or
 
 *Below, open-source repositories are sorted by **GitHub Star Count** in descending order.*
 
-| 📦 Repository / Project | ⭐ GitHub Stars | 🏷️ Category & Focus | ⚡ Key Highlights |
+| 📦 Repository / Project | ⭐ GitHub_Stars | 🏷️ Category & Focus | ⚡ Key Highlights |
 | :--- | :--- | :--- | :--- |
 | **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** 🗃️ | [![Stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social&color=white)](https://github.com/open-metadata/OpenMetadata/stargazers) | Data Governance & Metadata | Unified context layer & automated data classification to identify PII for DSAR fulfillment. |
 | **[DataHub](https://github.com/datahub-project/datahub)** 🌐 | [![Stars](https://img.shields.io/github/stars/datahub-project/datahub?style=social&color=white)](https://github.com/datahub-project/datahub/stargazers) | Enterprise Data Catalog | Extensible metadata platform for tracking data lineage and locating personal data assets. |
@@ -110,7 +110,7 @@ Privacy Request Automation enables organizations to receive, identity-verify, or
 Contributions are highly welcome! To add a new platform or open-source tool:
 
 1. 🍴 **Fork** this repository.
-2. ✏️ **Edit** `README.md` following the exact table structure (include specific starting prices, free tier limits, company sizes, or star badges).
+2. ✏️ **Edit** `README.md` following the exact table structure (include specific starting prices, free tier limits, company sizes, or Stars_Badges).
 3. 🚀 **Submit a Pull Request** with a brief summary of your additions.
 
 ---
